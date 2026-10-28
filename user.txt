@@ -1,0 +1,2 @@
+./MazeSetup.exe can download this game.
+./Maze.exe is the compiled program.
